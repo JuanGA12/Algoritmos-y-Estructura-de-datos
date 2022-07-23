@@ -1,0 +1,3 @@
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/lists-JuanGA12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/lists-JuanGA12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/lists-JuanGA12/cmake-build-debug/CMakeFiles/lists_JuanGA12.dir

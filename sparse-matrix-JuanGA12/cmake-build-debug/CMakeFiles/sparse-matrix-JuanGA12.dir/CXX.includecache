@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/main.cpp
+iostream
+-
+tester/tester.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/tester/tester.h
+matrix.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/matrix.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/matrix.h
+node.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/node.h
+stdexcept
+-
+vector
+-
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/mocker/mocker.h
+random
+-
+type_traits
+-
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/node.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/tester/tester.cpp
+tester.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/tester/tester.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/tester/tester.h
+stdexcept
+-
+iostream
+-
+assert.h
+-
+vector
+-
+algorithm
+-
+../mocker/mocker.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/mocker/mocker.h
+../matrix.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/sparse-matrix-JuanGA12/matrix.h
+
