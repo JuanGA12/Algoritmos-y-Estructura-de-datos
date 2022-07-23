@@ -1,0 +1,156 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./directed.h
+unordered_map
+-
+stack
+-
+queue
+-
+iomanip
+-
+map
+-
+graph.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./graph.h
+vertex.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./vertex.h
+edge.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./edge.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./graph.h
+unordered_map
+-
+vector
+-
+list
+-
+string
+-
+stack
+-
+vertex.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./vertex.h
+edge.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./edge.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./parser/airport.h
+string
+-
+vector
+-
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./parser/airports_parser.h
+iostream
+-
+unordered_map
+-
+string
+-
+fstream
+-
+sstream
+-
+cmath
+-
+algorithm
+-
+parser.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./parser/parser.h
+airport.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./parser/airport.h
+../undirected.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./undirected.h
+../directed.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./directed.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./parser/parser.h
+vector
+-
+string
+-
+../graph.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./graph.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./undirected.h
+queue
+-
+stack
+-
+unordered_map
+-
+algorithm
+-
+vector
+-
+limits.h
+-
+iostream
+-
+iomanip
+-
+limits
+-
+graph.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./graph.h
+vertex.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./vertex.h
+edge.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./edge.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/directed.h
+unordered_map
+-
+stack
+-
+queue
+-
+iomanip
+-
+map
+-
+graph.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/graph.h
+vertex.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/vertex.h
+edge.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/edge.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/edge.h
+vertex.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/vertex.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/graph.h
+unordered_map
+-
+vector
+-
+list
+-
+string
+-
+stack
+-
+vertex.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/vertex.h
+edge.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/edge.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/main.cpp
+iostream
+-
+graph.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/graph.h
+directed.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/directed.h
+./parser/airports_parser.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/./parser/airports_parser.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/graphs-depressive-agressive-c-wizards/vertex.h
+

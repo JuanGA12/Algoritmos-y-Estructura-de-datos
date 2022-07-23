@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/MergeSort/MergeSort.h
+iostream
+-
+vector
+-
+iterator
+-
+algorithm
+-
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/MergeSort/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+vector
+-
+MergeSort.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/MergeSort/MergeSort.h
+

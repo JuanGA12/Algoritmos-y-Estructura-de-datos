@@ -1,0 +1,3 @@
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/MergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/MergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/MergeSort/cmake-build-debug/CMakeFiles/MergeSort.dir
