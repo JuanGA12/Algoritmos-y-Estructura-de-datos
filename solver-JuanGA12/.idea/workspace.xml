@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="solver-JuanGA12" targetName="solver-JuanGA12" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff005b27-c146-4b89-9857-4763a9dd2eaf" name="Default Changelist" comment="Funcion Resolver y más...&#10;Solo funciona máximo con numeros de dos cifras y decimales con este formato &quot;1.4&quot;">
+      <change afterPath="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez.xcodeproj/project.xcworkspace/xcuserdata/juangc21.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez.xcodeproj/xcuserdata/juangc21.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="solver-JuanGA12" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+              <folding>
+                <element signature="e#139#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/Solver.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="e#180#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/Solver.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1268">
+              <caret line="145" column="17" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="17" />
+              <folding>
+                <element signature="e#141#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/tests/Tester.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/tests/Tester.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <folding>
+                <element signature="e#115#135#0" expanded="true" />
+                <element signature="e#569#627#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2415">
+              <caret line="161" column="53" selection-start-line="161" selection-start-column="53" selection-end-line="161" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>A</find>
+      <find>d</find>
+      <find>tmp</find>
+      <find>this-&gt;tmp</find>
+      <find>enteros</find>
+      <find>punto</find>
+      <find>t</find>
+      <find>result</find>
+      <find>respuesta</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>primer_valor</replace>
+      <replace>operador</replace>
+      <replace>this-&gt;tmp</replace>
+      <replace>tmp</replace>
+      <replace>punto</replace>
+      <replace>respuesta</replace>
+      <replace>operacion</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Solver_JuanGalvez/.gitignore" />
+        <option value="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/.gitignore" />
+        <option value="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/tests/Tester.h" />
+        <option value="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/Solver.h" />
+        <option value="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/tests/Tester.cpp" />
+        <option value="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/Solver.cpp" />
+        <option value="$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/solver-JuanGA12.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="258" />
+    <option name="y" value="24" />
+    <option name="width" value="1372" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solver-JuanGA12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solver-JuanGA12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solver-JuanGA12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solver-JuanGA12" type="462c0819:PsiDirectoryNode" />
+              <item name="Solver_JuanGalvez" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solver-JuanGA12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solver-JuanGA12" type="462c0819:PsiDirectoryNode" />
+              <item name="Solver_JuanGalvez" type="462c0819:PsiDirectoryNode" />
+              <item name="Solver_JuanGalvez" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="solver-JuanGA12" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solver-JuanGA12" TARGET_NAME="solver-JuanGA12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="solver-JuanGA12" RUN_TARGET_NAME="solver-JuanGA12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff005b27-c146-4b89-9857-4763a9dd2eaf" name="Default Changelist" comment="" />
+      <created>1590079121388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590079121388</updated>
+      <workItem from="1590079122674" duration="4068000" />
+      <workItem from="1590084207815" duration="20325000" />
+      <workItem from="1590192063086" duration="2842000" />
+      <workItem from="1590283791753" duration="4836000" />
+      <workItem from="1590288668698" duration="20816000" />
+      <workItem from="1590310042573" duration="4023000" />
+      <workItem from="1590347334794" duration="13758000" />
+      <workItem from="1590420345515" duration="3683000" />
+      <workItem from="1590447396133" duration="4793000" />
+      <workItem from="1590537832402" duration="13950000" />
+      <workItem from="1590716657041" duration="33000" />
+      <workItem from="1591292858112" duration="50000" />
+      <workItem from="1592005630725" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primera version Postfijo">
+      <created>1590089873884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590089873884</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Funcion Resolver y más...&#10;Solo funciona máximo con numeros de dos cifras y decimales con este formato &quot;1.4&quot;.&#10;Falta">
+      <created>1590100454123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590100454123</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ya acepta numeros positivos y negativos con mas de un digito, se implemento una forma costosa para aceptar numero decimales positivos, falta para numeros negativos, solo faltaria adaptar la funcion num_decimal para que funcione con numeros negativos">
+      <created>1590303700497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590303700497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mejorando implentacion para numeros decimales, ahora ya funcionan para negativos, lo malo es que se usa una funcion un poco costosa.">
+      <created>1590351221852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590351221852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Se pasaron todos los tests que dejó el profesor, implementacion un poco larga, el Solver cumple con los tests que se dieron, se decidio implementar más casos pero para estos aún se tiene ciertos problemas, pero lo bueno es que cumple con las funciones básicas (tests que dío el profe).&#10;Falta limpiar codigo">
+      <created>1590557465460</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590557465461</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93190000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="258" y="24" width="1372" height="980" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.16992481" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.502" side_tool="true" weight="0.24980605" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30405405" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.356982" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3277027" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primera version Postfijo" />
+    <MESSAGE value="Funcion Resolver y más...&#10;Solo funciona máximo con numeros de dos cifras y decimales con este formato &quot;1.4&quot;.&#10;Falta" />
+    <MESSAGE value="Ya acepta numeros positivos y negativos con mas de un digito, se implemento una forma costosa para aceptar numero decimales positivos, falta para numeros negativos, solo faltaria adaptar la funcion num_decimal para que funcione con numeros negativos" />
+    <MESSAGE value="Mejorando implentacion para numeros decimales, ahora ya funcionan para negativos, lo malo es que se usa una funcion un poco costosa." />
+    <MESSAGE value="Se pasaron todos los tests que dejó el profesor, implementacion un poco larga, el Solver cumple con los tests que se dieron, se decidio implementar más casos pero para estos aún se tiene ciertos problemas, pero lo bueno es que cumple con las funciones básicas (tests que dío el profe).&#10;Falta limpiar codigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se pasaron todos los tests que dejó el profesor, implementacion un poco larga, el Solver cumple con los tests que se dieron, se decidio implementar más casos pero para estos aún se tiene ciertos problemas, pero lo bueno es que cumple con las funciones básicas (tests que dío el profe).&#10;Falta limpiar codigo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/Solver.cpp</url>
+          <line>181</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/__locale">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="798" selection-start-line="798" selection-end-line="798" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/string">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34395">
+          <caret line="2293" selection-start-line="2293" selection-end-line="2293" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/vector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11475">
+          <caret line="765" column="39" selection-start-line="765" selection-start-column="39" selection-end-line="765" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/memory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2164" selection-start-line="2164" selection-end-line="2164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/new">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+          <folding>
+            <element signature="e#12634#12674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/_ctype.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#139#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/Solver.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#180#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/tests/Tester.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/tests/Tester.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#115#135#0" expanded="true" />
+            <element signature="e#569#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="161" column="53" selection-start-line="161" selection-start-column="53" selection-end-line="161" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver_JuanGalvez/Solver_JuanGalvez/Solver.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1268">
+          <caret line="145" column="17" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="17" />
+          <folding>
+            <element signature="e#141#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

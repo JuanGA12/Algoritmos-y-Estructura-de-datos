@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/main.cpp
+iostream
+-
+test/tester.cpp
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/test/tester.cpp
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/mock/mocker.cpp
+mocker.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/mock/mocker.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/mock/mocker.h
+random
+-
+type_traits
+-
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/node.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/self_list.h
+node.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/node.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/test/tester.cpp
+tester.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/test/tester.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/test/tester.h
+stdexcept
+-
+iostream
+-
+assert.h
+-
+../mock/mocker.cpp
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/mock/mocker.cpp
+../traits_list.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/traits_list.h
+../self_list.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/self_list.h
+
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/traits_list.h
+node.h
+/Users/Juan Galvez/Desktop/5to Ciclo/Algoritmos/type-traits-JuanGA12/node.h
+iostream
+-
+
